@@ -1,0 +1,14 @@
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\bin\Debug\net8.0\CadastroClientes.exe
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\bin\Debug\net8.0\CadastroClientes.deps.json
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\bin\Debug\net8.0\CadastroClientes.runtimeconfig.json
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\bin\Debug\net8.0\CadastroClientes.dll
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\bin\Debug\net8.0\CadastroClientes.pdb
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\obj\Debug\net8.0\CadastroClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\obj\Debug\net8.0\CadastroClientes.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\obj\Debug\net8.0\CadastroClientes.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\obj\Debug\net8.0\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\obj\Debug\net8.0\CadastroClientes.dll
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\obj\Debug\net8.0\refint\CadastroClientes.dll
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\obj\Debug\net8.0\CadastroClientes.pdb
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\obj\Debug\net8.0\CadastroClientes.genruntimeconfig.cache
+C:\Users\emili\OneDrive\Documentos\Área de Trabalho\CadastroClientes\obj\Debug\net8.0\ref\CadastroClientes.dll
